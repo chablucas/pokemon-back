@@ -8,4 +8,4 @@ La base de donnée était d'abord en local, après nous sommes passé sur Mongo 
 
 #Vercel
 
-Vercel nous a ensuite permis de deployer le site pour l'heberger et que tout ceux qui ont l'adresse peuvent y avoir accès -> https://pokemon-front-gamma.vercel.app/
+Vercel nous a ensuite permis de deployer le site pour l'heberger et que tout ceux qui ont l'adresse peuvent y avoir accès -> https://pokemon-backe.vercel.app/
