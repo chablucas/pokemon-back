@@ -16,7 +16,7 @@ const initDatabase = async () => {
   }
 
   if (!promise) {
-    promise = new MongoClient(databaseUrl, {
+    promise = new MongoClient(databaseURI, {
       connectTimeoutMS: 10000,
       maxPoolSize: 10,
     });
